@@ -153,7 +153,7 @@ Possible improvements include:
 
 **Field:** Rocket Systems and Cosmonautics  
 **University:** Samara National Research University  
-**Variant:** 7
+**name*:* kibipi ndomele 
 
 ---
 

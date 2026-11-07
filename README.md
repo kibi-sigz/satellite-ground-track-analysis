@@ -153,8 +153,9 @@ Possible improvements include:
 
 **Field:** Rocket Systems and Cosmonautics  
 **University:** Samara National Research University  
-**Variant:** 7
+**Name:** kibipi ndomele buhilya
 
 ---
 
 *This project is developed for academic study of spacecraft orbital motion, ground-track analysis and satellite observation opportunities.*
+*This repository is managed using Git and Github.*
